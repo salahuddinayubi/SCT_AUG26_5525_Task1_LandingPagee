@@ -32,3 +32,8 @@ The navigation is fixed with `position: fixed`, so it remains visible as the pag
 ## Beginner notes
 
 `IntersectionObserver` lets the browser notify us when a `.reveal` element enters the viewport, so we do not need a heavy animation library or a scroll handler that runs constantly. CSS `transform` and `opacity` are used for motion because they are efficient to animate and do not force the browser to recalculate the layout on every frame.
+
+live link : 
+
+<img width="1322" height="1021" alt="image" src="https://github.com/user-attachments/assets/4471c0f7-2eae-4d8d-a56c-b89c712ddb5a" />
+
