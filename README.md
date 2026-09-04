@@ -1,4 +1,5 @@
 # SkillCraft Technology — Task 01
+https://sct-aug-26-5525-task1-landing-page-eight.vercel.app/
 
 A responsive landing page for the SkillCraft Technology Task 01 assignment. The page demonstrates a fixed navigation menu that stays visible while scrolling, changes into a darker blurred `.scrolled` state after 50px, and exposes animated hover underlines on every navigation link.
 
